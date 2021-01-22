@@ -1,0 +1,172 @@
+[
+    {
+      "tag": "diploma_sartları" ,
+      "questions":
+      [
+      "diploma al için hangi şart sağl ol gerek",
+      "dipl v oma al için ne lazım",
+      "kaç kredi ile mezun ol",
+      "mezun ol için ne gerek",
+      "ortalama 200 alt mezun ol mi",
+      "okul bitir için kaç kredi gerek"
+      ],
+      "answers":
+      [
+        "bir öğrenci kayıt ol program müfredat bulun tüm ders başarı tamamla lisans için 240 akts genel not ortalama 200 veya daha yüksek i ve taraf tahakkuk et bulun eğitim öğretim ücret ve diğer ücret tamam öde mezun ol ve lisans veya ön lisans diploma al hak kazan öğrenci diploma al için eğitim öğretim ücret tamam öde ol şart genel not ortalama 300 349 ol onur 350 ve üst ol yüksek onur öğrenci ol mezun ol"
+
+      ]
+    },
+    {
+      "tag": "ders_tekrarı" ,
+      "questions":
+      [
+        "f al ders tekrar al mı",
+        "fx al ders tekrar mı al",
+        "kal ders ne zaman al",
+        "ders kal ne ol",
+        "ver ders nasıl tekrar al",
+        "ders ver ne zaman al"
+      ],
+      "answers":
+      [
+        "program müfredat bulun bir ders bir yarıyıl f fx fz veya u not biri al öğrenci bu ders takip ed iki yarıyıl içeri tekrar al zor birinci sınıf i̇ngilizce ders başarı ol öğrenci ilgili ders ver ilk yarıyıl al zorunlu"
+      ]
+    },
+    {
+        "tag": "maksimum_kredi" ,
+        "questions":
+        [
+          "bir dönem en fazla kaç kredi al",
+          "maksimum kaç kredi alın",
+          "en çok kaç kredi alın",
+          "bir dönem en fazla alın kredi sayı ne",
+          "kaç kredi kadar ders seç",
+          "kaç kredi için danışman onay gerek"
+        ],
+        "answers":
+        [
+          "bir öğrenci bir dönem al azami ders yük 42 akts dir öğrenci 36 akts ye kadar ders seç 37 42 akts ders al için danışman onay 43 akts ve daha fazla için fakülte yönetim kurul karar gerek"
+        ]
+    },
+    {
+        "tag": "devamsızlık" ,
+        "questions":
+        [
+          "kaç gün devam hakk var",
+          "en fazla ne kadar devam yap",
+          "devam kalmak ne olmak",
+          "kaç ders gir ders kal",
+          "rapor devam düş mi",
+          "ders devam yüz kalın mı"
+        ],
+        "answers":
+        [
+          "öğrenci yükseköğretim kurul belirle esas doğrultu ders yüz 70 laboratuvar ve atölye gibi bağımsız uygula ders yüz 80 ve i̇ngilizce hazırlık program 90 oran devam et yarıyıl veya akademik yıl iç her türlü sınav ve ders ver öğretim eleman öngör diğer çalış kat yüküm öğrenci devam ile ilgi kural öğretim eleman taraf ders öğretim plan kon yarıyıl veya akademik yıl baş ilan ed ve öğrenci devam bu kural göre izle sağlık rapor belge sağlık sorun ve disiplin ceza uzak dahil hangi gerekçe ol ol bir ders devam yüküm yer getir öğrenci o ders başarı say bu öğrenci yarıyıl veya akademik yılsonu ve bütünle sınav gir ve yarıyıl veya akademik yıl son not fz ol değerlendir aynı kural yandal ve çift anadal program için de geçerli"
+        ]
+    },
+    {
+        "tag": "dersten_cekilme" ,
+        "questions":
+        [
+          "al ders bırak için ne yap",
+          "al ders nasıl bırak",
+          "ders nasıl bırak",
+          "withdraw ne",
+          "ders nasıl withdraw ed",
+          "ders bırak ne ol"
+        ],
+        "answers":
+        [
+          "ders çek tarih ilgili dönem akademik takvim belir öğrenci akademik takvim belir son başvuru tarih kadar kayıt bulun bir ders akademik danışman bilgi dahil çek öğrenci akademik öğrenim süre en fazla 6 ders ve bir dönem en fazla 2 ders çek"
+        ]
+    },
+    {
+        "tag": "harf_notları" ,
+        "questions":
+        [
+          "fz ne",
+          "fx ne anlam gel",
+          "w not ne anlam gel",
+          "ı ne",
+          "s al ne ol",
+          "harf not ex gözük ne de",
+          "p harf not ne anlam gel",
+          "u al ders geçmiş say mı"
+        ],
+        "answers":
+        [
+          "fz final sınav gir hak el ed öğrenci final sınav önce akademik takvim belir tarih iç fz not ver fx final sınav gir hakk ol hal geçerli mazeret ol final sınav gel öğrenci ve bütünle sınav başvuru ol hal bu sınav gel öğrenci ver w öğrenci ders çek durum ver alın de not çizelge yer ver birlikte w not ortalama hesap kat daha önce bir yarıyıl al ol bir ders tekrar al sonra bu ders çek öğrenci genel not ortalama hesapla daha önce al not geçerli say i final sınav bulun bir ders harf not takdir ed için gerek çalış zorunlu neden tamamla öğrenci eksik gider için süre tanı amac i not ver bu durum bir öğrenci hangi daha yakın bir tarih harf not ilan ed tarih itibaren en geç 14 gün iç veya bir sonra yarıyıl ders kayıt başla kadar eksik tamamla gerek ders ver öğretim eleman başvuru ve bölüm başkan onay bir sonra yarıyıl ders kayıt başla kadar ek süre ver ver süre eksik tamamla öğrenci ilgili öğretim eleman taraf bir harf not takdir ed ver süre bit i dan fark bir harf not ver öğrenci fx not işle s belir ders başarı bulun öğrenci ver bu not ortalama hesap kat u belir ders başarı öğrenci ver bu not ortalama hesap kat p bir yarıyıl çok sür kredi ya da kredi ders son yarıyıl önce yarıyıl sonunda ver bu not ortalama hesap kat ex öğrenci önceden başarı ol bir ders öğrenci transkript işle program mezuniyet koşul ders muaf tut işaret ed bu not ortalama hesap kat"
+        ]
+    },
+    {
+        "tag": "not_itiraz" ,
+        "questions":
+        [
+          "not itiraz et ist ne yap",
+          "not nasıl itiraz ed",
+          "sınav sonuc nasıl itiraz ed",
+          "sınav not itiraz et ist ne yap",
+          "sınav sonuc yanlış hesapla ne yap",
+          "not yanlış hesapla ne yap"
+        ],
+        "answers":
+        [
+          "ara sınav not itiraz ol öğrenci ders bağ bulun dekan veya bölüm başkan not ilan ed izle üç iş gün iç yazılı ol başvuru bulun öğrenci itiraz üzeri ara sınav kağıd ders öğretim eleman taraf maddi hata açı tekrar incele bu itiraz bölüm başkan gerekli gör takdirde biri ders öğretim eleman ol üzere oluş üç kişilik bir komisyon tarafından maddi bir hata ol ol açı incele sonuç yazılı ol bölüm başkan rapor ed bölüm başkan sonuc öğrenci bil yarıyıl veya yılsonu ve bütünle sınav sonunda ders başarı not itiraz ol öğrenci not ilan takip ed üç iş gün iç ders bağ bulun dekan veya müdür yazılı ol başvuru bulun öğrenci başvuru biri ders öğretim eleman ol üzere fakülte yönetim kurul oluş üç kişilik bir komisyon tarafından maddi bir hata ol ol açı incele sonuç yazılı ol dekan veya müdür bil dekan veya müdür sonuc öğrenci duyur ve başarı not bir değişiklik var sonuç öğrenci i̇şleri direktör de bil tüm itiraz rağmen not değiş öğrenci itiraz değerlendir için rektör başvur üniversite yönetim kurul gerekli gör takdirde ders ver öğretim eleman dış bir jüri kur öğrenci itiraz değerlendir"
+        ]
+    },
+    {
+        "tag": "gozetim_ogrencisi" ,
+        "questions":
+        [
+          "sistem gözetim durum ol yaz bu ne",
+          "gözetim öğrenci ne",
+          "gözetim durum ol ne de",
+          "gözetim durum ne ol",
+          "kaç not ortalama ile gözetim liste çık",
+          "gözetim durum ol burs kes mi"
+        ],
+        "answers":
+        [
+          "bir yarıyıl sonunda genel not ortalama 180 de düşük ol öğrenci gözetim öğrenci say bir yarıyıl sonunda genel not ortalama 200 ve üzeri öğrenci başarı say akademik danışman gözetim durum öğrenci basarı durum geç için gerekli tedbir al gözetim durum öğrenci önce yarıyıl c d veya d not al ders iste tekrarla"
+        ]
+    },
+    {
+        "tag": "cap" ,
+        "questions":
+        [
+          "çap şart ne",
+          "çap yap için not ortalama kaç ol",
+          "çift anadal program nasıl katıl",
+          "çap yap için kaçıncı sınıf ol",
+          "çap yap ist bilgi ver mi",
+          "çift anadal program hakk bilgi ver mi"
+        ],
+        "answers":
+        [
+          "i̇lan ed çift anadal program anadal lisans program en erken üçüncü en geç beşinci yarıyıl baş başvur başvuru sıra genel not ortalama en az 272 veya 400 ol ancak anadal lisans program ilgili sınıf başarı sırala itibari en üst yüz 20 de bulun öğrenci çift anadal yap program ilgili yıl taban puan ya da üst bir puan sahip ise çift anadal program başvur"
+        ]
+    },
+    {
+        "tag": "basarı_bursu" ,
+        "questions":
+        [
+          "350 ortalama var başarı burs al mı",
+          "başarı burs nasıl yarar",
+          "dr ibrahim arıkan üstün başarı burs ne",
+          "370 ile yüzde kaç başarı burs al",
+          "başarı burs şart ne",
+          "başarı burs al için not ortalama kaç ol"
+        ],
+        "answers":
+        [
+          "dr ibrahim arıkan üstün başarı burs hazırlık program dış lisans bölüm oku öğrenci için geçerli üstün başarı burs her yıl bahar yarıyıl bitim temmuz ay belirle ve eylül ay itibaren bir takvim yıl için geçerli ol bir öğrenci üst başarı burs al için 1 ve 2 lisans yarıyıl sonunda güz bahar 60 akts yi 3 ve 4 lisans yarıyıl sonunda 120 akts yi 5 ve 6 lisans yarıyıl sonunda 180 akts yi tamamla ol gerek bir öğrenci üst başarı burs al için ilgili yıl tüm ders başarı ol ve ilgili yıl güz ve bahar dönem ders yük toplam 60 akts ol gerek 60 akts nin tamamla sadece yaz staj kredi eksik ol not ortalama göre dağılım şöyle 375 ve üzeri ol öğrenci bir yıl sonra eğitim öğretim ücret yüzde 50 sin 360 374 ol öğrenci yüzde 40 ından 350 359 ol öğrenci ise yüzde 25 in muaf olur"
+        ]
+    }
+
+
+]
+
+
+
+
+

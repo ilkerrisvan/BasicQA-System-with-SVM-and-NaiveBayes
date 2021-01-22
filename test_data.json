@@ -1,0 +1,130 @@
+[
+    {
+      "tag": "diploma_sartları" ,
+      "questions":
+      [
+      "nasıl mezun ol",
+      "diploma nasıl alın"
+      ],
+      "answers":
+      [
+        "bir öğrenci kayıtlı olduğu programın müfredatında bulunan tüm dersleri başarıyla tamamladığında lisans için 240 akts genel not ortalaması 200 veya daha yüksek ise ve tarafına tahakkuk ettirilmiş bulunan eğitim öğretim ücretinin ve diğer ücretlerin tamamını ödemişse mezun olmaya ve lisans veya ön lisans diploması almaya hak kazanır öğrencinin diplomasını alabilmesi için eğitim öğretim ücretinin tamamını ödemiş olması şarttır genel not ortalaması 300 349 olanlar onur 350 ve üstü olanlar yüksek onur öğrencisi olarak mezun olurlar"
+
+      ]
+    },
+    {
+      "tag": "ders_tekrarı" ,
+      "questions":
+      [
+        "tekrar ders ne zaman alın",
+        "ders tekrar nasıl ol"
+      ],
+      "answers":
+      [
+        "program müfredatında bulunan bir dersten bir yarıyılda f fx fz veya u notlarından birini alan öğrenciler bu dersleri takip eden iki yarıyıl içerisinde tekrar almak zorundadır birinci sınıf i̇ngilizce derslerinde başarılı olamayan öğrencilerin ilgili dersi verildiği ilk yarıyılda almaları zorunludur"
+      ]
+    },
+    {
+        "tag": "maksimum_kredi" ,
+        "questions":
+        [
+          "en fazla kaç kredi alın",
+          "36 kredi üst nasıl alın"
+        ],
+        "answers":
+        [
+          "bir öğrencinin bir dönemde alabileceği azami ders yükü 42 akts dir öğrenciler 36 akts ye kadar ders seçebilir 37 42 akts ders alabilmek için danıs man onayı 43 akts ve daha fazlası için fakülte yönetim kurulu kararı gerekir"
+        ]
+    },
+    {
+        "tag": "devamsızlık" ,
+        "questions":
+        [
+          "devam hakk ne kadar",
+          "devam oran ne kadar"
+        ],
+        "answers":
+        [
+          "öğrenciler yükseköğretim kurulunun belirlediği esaslar doğrultusunda derslere yüzde 70 laboratuvar ve atölye gibi bağımsız uygulamalı dersler yüzde 80 ve i̇ngilizce hazırlık programına 90 oranında devam etmek yarıyıl veya akademik yıl içinde her türlü sınava ve dersi veren öğretim elemanının öngördüğü diğer çalışmalara katılmakla yükümlüdürler öğrencilerin devamları ile ilgili kurallar öğretim elemanı tarafından ders öğretim planına konarak yarıyıl veya akademik yıl başında ilan edilir ve öğrencilerin devamları bu kurallara göre izlenir sağlık raporuyla belgelenmiş sağlık sorunları ve disiplin cezasıyla uzaklaştırma dahil hangi gerekçeyle olursa olsun bir dersin devam yükümlülüğünü yerine getirmeyen öğrenci o dersten başarısız sayılır bu öğrenciler yarıyıl veya akademik yılsonu ve bütünleme sınavına giremezler ve yarıyıl veya akademik yıl sonu notları fz olarak değerlendirilir aynı kurallar yandal ve çift anadal programları için de geçerlidir"
+        ]
+    },
+    {
+        "tag": "dersten_cekilme" ,
+        "questions":
+        [
+          "ders nasıl bırak",
+          "withdraw nasıl ed"
+        ],
+        "answers":
+        [
+          "dersten çekilme tarihleri ilgili dönem akademik takviminde belirtilir öğrenciler akademik takvimde belirtilen son bas vuru tarihine kadar kayıtlı bulundukları bir dersten akademik danıs manlarının bilgisi dâhilinde çekilebilirler öğrenciler akademik öğrenimleri süresince en fazla 6 dersten ve bir dönemde en fazla 2 dersten çekilebilirler"
+        ]
+    },
+    {
+        "tag": "harf_notları" ,
+        "questions":
+        [
+          "harf not ne",
+          "hangi harf not kal"
+        ],
+        "answers":
+        [
+          "fz final sınavına girme hakkı elde edemeyen öğrencilere final sınavları öncesinde akademik takvimde belirtilen tarihler içinde fz notu verilir fx final sınavına girme hakkı olduğu halde geçerli mazereti olmaksızın final sınavına gelmeyen öğrencilere ve bütünleme sınavı başvurusu olduğu halde bu sınava gelmeyen öğrencilere verilir w öğrencinin dersten çekildiği durumlarda verilir alınan derse not çizelgesinde yer verilmekle birlikte w notu ortalama hesaplarına katılmaz daha önceki bir yarıyılda almış olduğu bir dersi tekrar alıp sonra bu dersten çekilen öğrencilerin genel not ortalaması hesaplanırken daha önce aldıkları not geçerli sayılır i final sınavı bulunmayan bir derste harf notu takdir edilebilmesi için gereken çalışmaları zorunlu nedenlerle tamamlayamamış öğrencilere eksiklerini gidermek için süre tanımak amacıyla i notu verilebilir bu durumdaki bir öğrencinin hangisi daha yakın bir tarihteyse harf notlarının ilan edildiği tarihten itibaren en geç 14 gün içinde veya bir sonraki yarıyılın ders kayıtları başlayana kadar eksiklerini tamamlaması gereklidir dersi veren öğretim elemanının başvurusu ve bölüm başkanının onayıyla bir sonraki yarıyılın ders kayıtları başlayana kadar ek süre verilebilir verilen sürede eksiklerini tamamlayan öğrenciye ilgili öğretim elemanı tarafından bir harf notu takdir edilir verilen süre bittiğinde i dan farklı bir harf notu verilmemiş öğrencilere fx notu işlenir s belirtilmiş derslerde başarılı bulunan öğrencilere verilir bu not ortalama hesaplarına katılmaz u belirtilmiş derslerde başarısız öğrencilere verilir bu not ortalama hesaplarına katılmaz p bir yarıyıldan çok süren kredili ya da kredisiz derslerde son yarıyıldan önceki yarıyıllar sonunda verilir bu not ortalama hesaplarına katılmaz ex öğrencinin önceden başarılı olduğu bir ders öğrencinin transkriptine işlenirken programındaki mezuniyet koşulu dersten muaf tutulmasını işaret eder bu not ortalama hesaplarına katılmaz"
+        ]
+    },
+    {
+        "tag": "not_itiraz" ,
+        "questions":
+        [
+          "not itiraz nasıl ol",
+          "not itiraz kim ed"
+        ],
+        "answers":
+        [
+          "ara sınav notlarına itirazı olan öğrenci dersin bağlı bulunduğu dekanlık veya bölüm başkanlığına notların ilan edilmesini izleyen üç iş günü içinde yazılı olarak başvuruda bulunur öğrencinin itirazı üzerine ara sınav kağıdı dersin öğretim elemanı tarafından maddi hata açısından tekrar incelenir bu itiraz bölüm başkanlığınca gerekli görüldüğü takdirde biri dersin öğretim elemanı olmak üzere oluşturulan üç kişilik bir komisyon tarafından maddi bir hatanın olup olmadığı açısından incelenir sonuç yazılı olarak bölüm başkanlığına rapor edilir bölüm başkanlığı sonucu öğrenciye bildirir yarıyıl veya yılsonu ve bütünleme sınavı sonunda ders başarı notlarına itirazı olan öğrenci notların ilanını takip eden üç iş günü içinde dersin bağlı bulunduğu dekanlığa veya müdürlüğe yazılı olarak başvuruda bulunur öğrencinin başvurusu biri dersin öğretim elemanı olmak üzere fakülte yönetim kurulunca oluşturulan üç kişilik bir komisyon tarafından maddi bir hatanın olup olmadığı açısından incelenir sonuç yazılı olarak dekanlığa veya müdürlüğe bildirilir dekanlık veya müdürlük sonucu öğrenciye duyurur ve başarı notunda bir değişiklik varsa sonuç öğrenci i̇şleri direktörlüğüne de bildirilir tüm itirazlara rağmen notu değişmeyen öğrenci itirazının değerlendirilmesi için rektörlüğe başvurabilir üniversite yönetim kurulu gerekli gördüğü takdirde dersi veren öğretim elemanı dışında bir jüri kurarak öğrencinin itirazını değerlendirir"
+        ]
+    },
+    {
+        "tag": "gozetim_ogrencisi" ,
+        "questions":
+        [
+          "gözetim durum ders kal ne ol",
+          "gözetim öğrenci kim"
+        ],
+        "answers":
+        [
+          "bir yarıyıl sonunda genel not ortalaması 1 80 den düşük olan öğrenciler gözetim öğrencisi sayılırlar bir yarıyıl sonunda genel not ortalaması 2 00 ve üzerindeki öğrenciler bas arılı sayılırlar akademik danıs manı gözetim durumundaki öğrencinin bas arılı duruma geçmesi için gerekli tedbirleri alır gözetim durumundaki öğrenciler önceki yarıyıllarda c d veya d notu aldıkları derslerden istediklerini tekrarlayabilirler"
+        ]
+    },
+    {
+        "tag": "cap" ,
+        "questions":
+        [
+          "çap yap için ne yap gerek",
+          "çift anadal nasıl yap"
+        ],
+        "answers":
+        [
+          "i̇lan edilmiş çift anadal programına anadal lisans programının en erken üçüncü en geç beşinci yarıyılın başında başvurabilir başvuru sırasında genel not ortalaması en az 2 72 veya 4 00 olan ancak anadal lisans programının ilgili sınıfında başarı sıralaması itibariyle en üst yüzde 20 de bulunmayan öğrenciler çift anadal yapılacak programın ilgili yıldaki taban puanı ya da üstü bir puana sahip ise çift anadal programına başvurabilirler"
+        ]
+    },
+    {
+        "tag": "basarı_bursu" ,
+        "questions":
+        [
+          "kaç ortalama burs için yeter",
+          "başarı burs ne gerek"
+        ],
+        "answers":
+        [
+          "dr ibrahim arıkan üstün başarı bursu hazırlık programı dışında lisans bölümlerinde okuyan öğrenciler için geçerlidir üstün başarı bursları her yıl bahar yarıyılı bitiminde temmuz ayında belirlenir ve eylül ayından itibaren bir takvim yılı için geçerli olur bir öğrencinin üstün başarı bursu alabilmesi için 1 ve 2 lisans yarıyılları sonunda güz bahar 60 akts yi 3 ve 4 lisans yarıyılları sonunda 120 akts yi 5 ve 6 lisans yarıyılları sonunda 180 akts yi tamamlamış olması gerekmektedir bir öğrencinin üstün başarı bursu alabilmesi için ilgili yılın tüm derslerinden başarılı olması ve ilgili yılın güz ve bahar dönemi ders yükü toplamının 60 akts olması gerekmektedir 60 akts nin tamamlanmasında sadece yaz staj kredileri eksik olabilir not ortalamalıran göre dağılım şöyledir 3 75 ve üzerinde olan öğrenciler bir yıl sonraki eğitim öğretim ücretinin yüzde 50 sinden 3 60 3 74 olan öğrenciler yüzde 40 ından 3 50 3 59 olan ögrenciler ise yüzde 25 inden muaf olur"
+        ]
+    }
+
+
+]
+
+
+
+
+

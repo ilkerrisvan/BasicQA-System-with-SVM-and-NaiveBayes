@@ -1,0 +1,558 @@
+{"stars": 1,"text": "diploma al için hangi şart sağl ol gerek"}
+{"stars": 1,"text": "dipl v oma al için ne lazım"}
+{"stars": 1,"text": "kaç kredi ile mezun ol"}
+{"stars": 1,"text": "mezun ol için ne gerek"}
+{"stars": 1,"text": "ortalama 200 alt mezun ol mi"}
+{"stars": 1,"text": "okul bitir için kaç kredi gerek"}
+{"stars": 2,"text": "f al ders tekrar al mı"}
+{"stars": 2,"text": "fx al ders tekrar mı al"}
+{"stars": 2,"text": "kal ders ne zaman al"}
+{"stars": 2,"text": "ders kal ne ol"}
+{"stars": 2,"text": "ver ders nasıl tekrar al"}
+{"stars": 2,"text": "ders ver ne zaman al"}
+{"stars": 3,"text": "bir dönem en fazla kaç kredi al"}
+{"stars": 3,"text": "maksimum kaç kredi alın"}
+{"stars": 3,"text": "en çok kaç kredi alın"}
+{"stars": 3,"text": "bir dönem en fazla alın kredi sayı ne"}
+{"stars": 3,"text": "kaç kredi kadar ders seç"}
+{"stars": 3,"text": "kaç kredi için danışman onay gerek"}
+{"stars": 4,"text": "kaç gün devam hakk var"}
+{"stars": 4,"text": "en fazla ne kadar devam yap"}
+{"stars": 4,"text": "devam kalmak ne olmak"}
+{"stars": 4,"text": "kaç ders gir ders kal"}
+{"stars": 4,"text": "rapor devam düş mi"}
+{"stars": 4,"text": "ders devam yüz kalın mı"}
+{"stars": 5,"text": "al ders bırak için ne yap"}
+{"stars": 5,"text": "al ders nasıl bırak"}
+{"stars": 5,"text": "ders nasıl bırak"}
+{"stars": 5,"text": "withdraw ne"}
+{"stars": 5,"text": "ders nasıl withdraw ed"}
+{"stars": 5,"text": "ders bırak ne ol"}
+{"stars": 6,"text": "fz ne"}
+{"stars": 6,"text": "fx ne anlam gel"}
+{"stars": 6,"text": "w not ne anlam gel"}
+{"stars": 6,"text": "ı ne"}
+{"stars": 6,"text": "s al ne ol"}
+{"stars": 6,"text": "harf not ex gözük ne de"}
+{"stars": 6,"text": "p harf not ne anlam gel"}
+{"stars": 6,"text": "u al ders geçmiş say mı"}
+{"stars": 7,"text": "not itiraz et ist ne yap"}
+{"stars": 7,"text": "not nasıl itiraz ed"}
+{"stars": 7,"text": "sınav sonuc nasıl itiraz ed"}
+{"stars": 7,"text": "sınav not itiraz et ist ne yap"}
+{"stars": 7,"text": "sınav sonuc yanlış hesapla ne yap"}
+{"stars": 7,"text": "not yanlış hesapla ne yap"}
+{"stars": 8,"text": "sistem gözetim durum ol yaz bu ne"}
+{"stars": 8,"text": "gözetim öğrenci ne,gözetim durum ol ne de"}
+{"stars": 8,"text": "gözetim durum ol ne de"}
+{"stars": 8,"text": "gözetim durum ne ol ne de"}
+{"stars": 8,"text": "gözetim durum ne ol"}
+{"stars": 8,"text": "kaç not ortalama ile gözetim liste çık"}
+{"stars": 8,"text": "gözetim durum ol burs kes mi"}
+{"stars": 9,"text": "çap şart ne"}
+{"stars": 9,"text": "çap yap için not ortalama kaç ol"}
+{"stars": 9,"text": "çift anadal program nasıl katıl"}
+{"stars": 9,"text": "çap yap için kaçıncı sınıf ol"}
+{"stars": 9,"text": "çap yap ist bilgi ver mi"}
+{"stars": 9,"text": "çift anadal program hakk bilgi ver mi"}
+{"stars": 10,"text": "başarı burs nasıl yarar"}
+{"stars": 10,"text": "dr ibrahim arıkan üstün başarı burs ne"}
+{"stars": 10,"text": "350 ile yüzde kaç başarı burs al"}
+{"stars": 10,"text": "başarı burs şart ne"}
+{"stars": 10,"text": "başarı burs al için not ortalama kaç ol"}
+{"stars": 1,"text": "diploma al için hangi şart sağl ol gerek"}
+{"stars": 1,"text": "dipl v oma al için ne lazım"}
+{"stars": 1,"text": "kaç kredi ile mezun ol"}
+{"stars": 1,"text": "mezun ol için ne gerek"}
+{"stars": 1,"text": "ortalama 200 alt mezun ol mi"}
+{"stars": 1,"text": "okul bitir için kaç kredi gerek"}
+{"stars": 2,"text": "f al ders tekrar al mı"}
+{"stars": 2,"text": "fx al ders tekrar mı al"}
+{"stars": 2,"text": "kal ders ne zaman al"}
+{"stars": 2,"text": "ders kal ne ol"}
+{"stars": 2,"text": "ver ders nasıl tekrar al"}
+{"stars": 2,"text": "ders ver ne zaman al"}
+{"stars": 3,"text": "bir dönem en fazla kaç kredi al"}
+{"stars": 3,"text": "maksimum kaç kredi alın"}
+{"stars": 3,"text": "en çok kaç kredi alın"}
+{"stars": 3,"text": "bir dönem en fazla alın kredi sayı ne"}
+{"stars": 3,"text": "kaç kredi kadar ders seç"}
+{"stars": 3,"text": "kaç kredi için danışman onay gerek"}
+{"stars": 4,"text": "kaç gün devam hakk var"}
+{"stars": 4,"text": "en fazla ne kadar devam yap"}
+{"stars": 4,"text": "devam kalmak ne olmak"}
+{"stars": 4,"text": "kaç ders gir ders kal"}
+{"stars": 4,"text": "rapor devam düş mi"}
+{"stars": 4,"text": "ders devam yüz kalın mı"}
+{"stars": 5,"text": "al ders bırak için ne yap"}
+{"stars": 5,"text": "al ders nasıl bırak"}
+{"stars": 5,"text": "ders nasıl bırak"}
+{"stars": 5,"text": "withdraw ne"}
+{"stars": 5,"text": "ders nasıl withdraw ed"}
+{"stars": 5,"text": "ders bırak ne ol"}
+{"stars": 6,"text": "fz ne"}
+{"stars": 6,"text": "fx ne anlam gel"}
+{"stars": 6,"text": "w not ne anlam gel"}
+{"stars": 6,"text": "ı ne"}
+{"stars": 6,"text": "s al ne ol"}
+{"stars": 6,"text": "harf not ex gözük ne de"}
+{"stars": 6,"text": "p harf not ne anlam gel"}
+{"stars": 6,"text": "u al ders geçmiş say mı"}
+{"stars": 7,"text": "not itiraz et ist ne yap"}
+{"stars": 7,"text": "not nasıl itiraz ed"}
+{"stars": 7,"text": "sınav sonuc nasıl itiraz ed"}
+{"stars": 7,"text": "sınav not itiraz et ist ne yap"}
+{"stars": 7,"text": "sınav sonuc yanlış hesapla ne yap"}
+{"stars": 7,"text": "not yanlış hesapla ne yap"}
+{"stars": 8,"text": "sistem gözetim durum ol yaz bu ne"}
+{"stars": 8,"text": "gözetim öğrenci ne,gözetim durum ol ne de"}
+{"stars": 8,"text": "gözetim durum ol ne de"}
+{"stars": 8,"text": "gözetim durum ne ol ne de"}
+{"stars": 8,"text": "gözetim durum ne ol"}
+{"stars": 8,"text": "kaç not ortalama ile gözetim liste çık"}
+{"stars": 8,"text": "gözetim durum ol burs kes mi"}
+{"stars": 9,"text": "çap şart ne"}
+{"stars": 9,"text": "çap yap için not ortalama kaç ol"}
+{"stars": 9,"text": "çift anadal program nasıl katıl"}
+{"stars": 9,"text": "çap yap için kaçıncı sınıf ol"}
+{"stars": 9,"text": "çap yap ist bilgi ver mi"}
+{"stars": 9,"text": "çift anadal program hakk bilgi ver mi"}
+{"stars": 10,"text": "başarı burs nasıl yarar"}
+{"stars": 10,"text": "dr ibrahim arıkan üstün başarı burs ne"}
+{"stars": 10,"text": "350 ile yüzde kaç başarı burs al"}
+{"stars": 10,"text": "başarı burs şart ne"}
+{"stars": 10,"text": "başarı burs al için not ortalama kaç ol"}
+{"stars": 1,"text": "diploma al için hangi şart sağl ol gerek"}
+{"stars": 1,"text": "dipl v oma al için ne lazım"}
+{"stars": 1,"text": "kaç kredi ile mezun ol"}
+{"stars": 1,"text": "mezun ol için ne gerek"}
+{"stars": 1,"text": "ortalama 200 alt mezun ol mi"}
+{"stars": 1,"text": "okul bitir için kaç kredi gerek"}
+{"stars": 2,"text": "f al ders tekrar al mı"}
+{"stars": 2,"text": "fx al ders tekrar mı al"}
+{"stars": 2,"text": "kal ders ne zaman al"}
+{"stars": 2,"text": "ders kal ne ol"}
+{"stars": 2,"text": "ver ders nasıl tekrar al"}
+{"stars": 2,"text": "ders ver ne zaman al"}
+{"stars": 3,"text": "bir dönem en fazla kaç kredi al"}
+{"stars": 3,"text": "maksimum kaç kredi alın"}
+{"stars": 3,"text": "en çok kaç kredi alın"}
+{"stars": 3,"text": "bir dönem en fazla alın kredi sayı ne"}
+{"stars": 3,"text": "kaç kredi kadar ders seç"}
+{"stars": 3,"text": "kaç kredi için danışman onay gerek"}
+{"stars": 4,"text": "kaç gün devam hakk var"}
+{"stars": 4,"text": "en fazla ne kadar devam yap"}
+{"stars": 4,"text": "devam kalmak ne olmak"}
+{"stars": 4,"text": "kaç ders gir ders kal"}
+{"stars": 4,"text": "rapor devam düş mi"}
+{"stars": 4,"text": "ders devam yüz kalın mı"}
+{"stars": 5,"text": "al ders bırak için ne yap"}
+{"stars": 5,"text": "al ders nasıl bırak"}
+{"stars": 5,"text": "ders nasıl bırak"}
+{"stars": 5,"text": "withdraw ne"}
+{"stars": 5,"text": "ders nasıl withdraw ed"}
+{"stars": 5,"text": "ders bırak ne ol"}
+{"stars": 6,"text": "fz ne"}
+{"stars": 6,"text": "fx ne anlam gel"}
+{"stars": 6,"text": "w not ne anlam gel"}
+{"stars": 6,"text": "ı ne"}
+{"stars": 6,"text": "s al ne ol"}
+{"stars": 6,"text": "harf not ex gözük ne de"}
+{"stars": 6,"text": "p harf not ne anlam gel"}
+{"stars": 6,"text": "u al ders geçmiş say mı"}
+{"stars": 7,"text": "not itiraz et ist ne yap"}
+{"stars": 7,"text": "not nasıl itiraz ed"}
+{"stars": 7,"text": "sınav sonuc nasıl itiraz ed"}
+{"stars": 7,"text": "sınav not itiraz et ist ne yap"}
+{"stars": 7,"text": "sınav sonuc yanlış hesapla ne yap"}
+{"stars": 7,"text": "not yanlış hesapla ne yap"}
+{"stars": 8,"text": "sistem gözetim durum ol yaz bu ne"}
+{"stars": 8,"text": "gözetim öğrenci ne,gözetim durum ol ne de"}
+{"stars": 8,"text": "gözetim durum ol ne de"}
+{"stars": 8,"text": "gözetim durum ne ol ne de"}
+{"stars": 8,"text": "gözetim durum ne ol"}
+{"stars": 8,"text": "kaç not ortalama ile gözetim liste çık"}
+{"stars": 8,"text": "gözetim durum ol burs kes mi"}
+{"stars": 9,"text": "çap şart ne"}
+{"stars": 9,"text": "çap yap için not ortalama kaç ol"}
+{"stars": 9,"text": "çift anadal program nasıl katıl"}
+{"stars": 9,"text": "çap yap için kaçıncı sınıf ol"}
+{"stars": 9,"text": "çap yap ist bilgi ver mi"}
+{"stars": 9,"text": "çift anadal program hakk bilgi ver mi"}
+{"stars": 10,"text": "başarı burs nasıl yarar"}
+{"stars": 10,"text": "dr ibrahim arıkan üstün başarı burs ne"}
+{"stars": 10,"text": "350 ile yüzde kaç başarı burs al"}
+{"stars": 10,"text": "başarı burs şart ne"}
+{"stars": 10,"text": "başarı burs al için not ortalama kaç ol"}
+{"stars": 1,"text": "diploma al için hangi şart sağl ol gerek"}
+{"stars": 1,"text": "dipl v oma al için ne lazım"}
+{"stars": 1,"text": "kaç kredi ile mezun ol"}
+{"stars": 1,"text": "mezun ol için ne gerek"}
+{"stars": 1,"text": "ortalama 200 alt mezun ol mi"}
+{"stars": 1,"text": "okul bitir için kaç kredi gerek"}
+{"stars": 2,"text": "f al ders tekrar al mı"}
+{"stars": 2,"text": "fx al ders tekrar mı al"}
+{"stars": 2,"text": "kal ders ne zaman al"}
+{"stars": 2,"text": "ders kal ne ol"}
+{"stars": 2,"text": "ver ders nasıl tekrar al"}
+{"stars": 2,"text": "ders ver ne zaman al"}
+{"stars": 3,"text": "bir dönem en fazla kaç kredi al"}
+{"stars": 3,"text": "maksimum kaç kredi alın"}
+{"stars": 3,"text": "en çok kaç kredi alın"}
+{"stars": 3,"text": "bir dönem en fazla alın kredi sayı ne"}
+{"stars": 3,"text": "kaç kredi kadar ders seç"}
+{"stars": 3,"text": "kaç kredi için danışman onay gerek"}
+{"stars": 4,"text": "kaç gün devam hakk var"}
+{"stars": 4,"text": "en fazla ne kadar devam yap"}
+{"stars": 4,"text": "devam kalmak ne olmak"}
+{"stars": 4,"text": "kaç ders gir ders kal"}
+{"stars": 4,"text": "rapor devam düş mi"}
+{"stars": 4,"text": "ders devam yüz kalın mı"}
+{"stars": 5,"text": "al ders bırak için ne yap"}
+{"stars": 5,"text": "al ders nasıl bırak"}
+{"stars": 5,"text": "ders nasıl bırak"}
+{"stars": 5,"text": "withdraw ne"}
+{"stars": 5,"text": "ders nasıl withdraw ed"}
+{"stars": 5,"text": "ders bırak ne ol"}
+{"stars": 6,"text": "fz ne"}
+{"stars": 6,"text": "fx ne anlam gel"}
+{"stars": 6,"text": "w not ne anlam gel"}
+{"stars": 6,"text": "ı ne"}
+{"stars": 6,"text": "s al ne ol"}
+{"stars": 6,"text": "harf not ex gözük ne de"}
+{"stars": 6,"text": "p harf not ne anlam gel"}
+{"stars": 6,"text": "u al ders geçmiş say mı"}
+{"stars": 7,"text": "not itiraz et ist ne yap"}
+{"stars": 7,"text": "not nasıl itiraz ed"}
+{"stars": 7,"text": "sınav sonuc nasıl itiraz ed"}
+{"stars": 7,"text": "sınav not itiraz et ist ne yap"}
+{"stars": 7,"text": "sınav sonuc yanlış hesapla ne yap"}
+{"stars": 7,"text": "not yanlış hesapla ne yap"}
+{"stars": 8,"text": "sistem gözetim durum ol yaz bu ne"}
+{"stars": 8,"text": "gözetim öğrenci ne,gözetim durum ol ne de"}
+{"stars": 8,"text": "gözetim durum ol ne de"}
+{"stars": 8,"text": "gözetim durum ne ol ne de"}
+{"stars": 8,"text": "gözetim durum ne ol"}
+{"stars": 8,"text": "kaç not ortalama ile gözetim liste çık"}
+{"stars": 8,"text": "gözetim durum ol burs kes mi"}
+{"stars": 9,"text": "çap şart ne"}
+{"stars": 9,"text": "çap yap için not ortalama kaç ol"}
+{"stars": 9,"text": "çift anadal program nasıl katıl"}
+{"stars": 9,"text": "çap yap için kaçıncı sınıf ol"}
+{"stars": 9,"text": "çap yap ist bilgi ver mi"}
+{"stars": 9,"text": "çift anadal program hakk bilgi ver mi"}
+{"stars": 10,"text": "başarı burs nasıl yarar"}
+{"stars": 10,"text": "dr ibrahim arıkan üstün başarı burs ne"}
+{"stars": 10,"text": "350 ile yüzde kaç başarı burs al"}
+{"stars": 10,"text": "başarı burs şart ne"}
+{"stars": 10,"text": "başarı burs al için not ortalama kaç ol"}
+{"stars": 1,"text": "diploma al için hangi şart sağl ol gerek"}
+{"stars": 1,"text": "dipl v oma al için ne lazım"}
+{"stars": 1,"text": "kaç kredi ile mezun ol"}
+{"stars": 1,"text": "mezun ol için ne gerek"}
+{"stars": 1,"text": "ortalama 200 alt mezun ol mi"}
+{"stars": 1,"text": "okul bitir için kaç kredi gerek"}
+{"stars": 2,"text": "f al ders tekrar al mı"}
+{"stars": 2,"text": "fx al ders tekrar mı al"}
+{"stars": 2,"text": "kal ders ne zaman al"}
+{"stars": 2,"text": "ders kal ne ol"}
+{"stars": 2,"text": "ver ders nasıl tekrar al"}
+{"stars": 2,"text": "ders ver ne zaman al"}
+{"stars": 3,"text": "bir dönem en fazla kaç kredi al"}
+{"stars": 3,"text": "maksimum kaç kredi alın"}
+{"stars": 3,"text": "en çok kaç kredi alın"}
+{"stars": 3,"text": "bir dönem en fazla alın kredi sayı ne"}
+{"stars": 3,"text": "kaç kredi kadar ders seç"}
+{"stars": 3,"text": "kaç kredi için danışman onay gerek"}
+{"stars": 4,"text": "kaç gün devam hakk var"}
+{"stars": 4,"text": "en fazla ne kadar devam yap"}
+{"stars": 4,"text": "devam kalmak ne olmak"}
+{"stars": 4,"text": "kaç ders gir ders kal"}
+{"stars": 4,"text": "rapor devam düş mi"}
+{"stars": 4,"text": "ders devam yüz kalın mı"}
+{"stars": 5,"text": "al ders bırak için ne yap"}
+{"stars": 5,"text": "al ders nasıl bırak"}
+{"stars": 5,"text": "ders nasıl bırak"}
+{"stars": 5,"text": "withdraw ne"}
+{"stars": 5,"text": "ders nasıl withdraw ed"}
+{"stars": 5,"text": "ders bırak ne ol"}
+{"stars": 6,"text": "fz ne"}
+{"stars": 6,"text": "fx ne anlam gel"}
+{"stars": 6,"text": "w not ne anlam gel"}
+{"stars": 6,"text": "ı ne"}
+{"stars": 6,"text": "s al ne ol"}
+{"stars": 6,"text": "harf not ex gözük ne de"}
+{"stars": 6,"text": "p harf not ne anlam gel"}
+{"stars": 6,"text": "u al ders geçmiş say mı"}
+{"stars": 7,"text": "not itiraz et ist ne yap"}
+{"stars": 7,"text": "not nasıl itiraz ed"}
+{"stars": 7,"text": "sınav sonuc nasıl itiraz ed"}
+{"stars": 7,"text": "sınav not itiraz et ist ne yap"}
+{"stars": 7,"text": "sınav sonuc yanlış hesapla ne yap"}
+{"stars": 7,"text": "not yanlış hesapla ne yap"}
+{"stars": 8,"text": "sistem gözetim durum ol yaz bu ne"}
+{"stars": 8,"text": "gözetim öğrenci ne,gözetim durum ol ne de"}
+{"stars": 8,"text": "gözetim durum ol ne de"}
+{"stars": 8,"text": "gözetim durum ne ol ne de"}
+{"stars": 8,"text": "gözetim durum ne ol"}
+{"stars": 8,"text": "kaç not ortalama ile gözetim liste çık"}
+{"stars": 8,"text": "gözetim durum ol burs kes mi"}
+{"stars": 9,"text": "çap şart ne"}
+{"stars": 9,"text": "çap yap için not ortalama kaç ol"}
+{"stars": 9,"text": "çift anadal program nasıl katıl"}
+{"stars": 9,"text": "çap yap için kaçıncı sınıf ol"}
+{"stars": 9,"text": "çap yap ist bilgi ver mi"}
+{"stars": 9,"text": "çift anadal program hakk bilgi ver mi"}
+{"stars": 10,"text": "başarı burs nasıl yarar"}
+{"stars": 10,"text": "dr ibrahim arıkan üstün başarı burs ne"}
+{"stars": 10,"text": "350 ile yüzde kaç başarı burs al"}
+{"stars": 10,"text": "başarı burs şart ne"}
+{"stars": 10,"text": "başarı burs al için not ortalama kaç ol"}
+{"stars": 1,"text": "diploma al için hangi şart sağl ol gerek"}
+{"stars": 1,"text": "dipl v oma al için ne lazım"}
+{"stars": 1,"text": "kaç kredi ile mezun ol"}
+{"stars": 1,"text": "mezun ol için ne gerek"}
+{"stars": 1,"text": "ortalama 200 alt mezun ol mi"}
+{"stars": 1,"text": "okul bitir için kaç kredi gerek"}
+{"stars": 2,"text": "f al ders tekrar al mı"}
+{"stars": 2,"text": "fx al ders tekrar mı al"}
+{"stars": 2,"text": "kal ders ne zaman al"}
+{"stars": 2,"text": "ders kal ne ol"}
+{"stars": 2,"text": "ver ders nasıl tekrar al"}
+{"stars": 2,"text": "ders ver ne zaman al"}
+{"stars": 3,"text": "bir dönem en fazla kaç kredi al"}
+{"stars": 3,"text": "maksimum kaç kredi alın"}
+{"stars": 3,"text": "en çok kaç kredi alın"}
+{"stars": 3,"text": "bir dönem en fazla alın kredi sayı ne"}
+{"stars": 3,"text": "kaç kredi kadar ders seç"}
+{"stars": 3,"text": "kaç kredi için danışman onay gerek"}
+{"stars": 4,"text": "kaç gün devam hakk var"}
+{"stars": 4,"text": "en fazla ne kadar devam yap"}
+{"stars": 4,"text": "devam kalmak ne olmak"}
+{"stars": 4,"text": "kaç ders gir ders kal"}
+{"stars": 4,"text": "rapor devam düş mi"}
+{"stars": 4,"text": "ders devam yüz kalın mı"}
+{"stars": 5,"text": "al ders bırak için ne yap"}
+{"stars": 5,"text": "al ders nasıl bırak"}
+{"stars": 5,"text": "ders nasıl bırak"}
+{"stars": 5,"text": "withdraw ne"}
+{"stars": 5,"text": "ders nasıl withdraw ed"}
+{"stars": 5,"text": "ders bırak ne ol"}
+{"stars": 6,"text": "fz ne"}
+{"stars": 6,"text": "fx ne anlam gel"}
+{"stars": 6,"text": "w not ne anlam gel"}
+{"stars": 6,"text": "ı ne"}
+{"stars": 6,"text": "s al ne ol"}
+{"stars": 6,"text": "harf not ex gözük ne de"}
+{"stars": 6,"text": "p harf not ne anlam gel"}
+{"stars": 6,"text": "u al ders geçmiş say mı"}
+{"stars": 7,"text": "not itiraz et ist ne yap"}
+{"stars": 7,"text": "not nasıl itiraz ed"}
+{"stars": 7,"text": "sınav sonuc nasıl itiraz ed"}
+{"stars": 7,"text": "sınav not itiraz et ist ne yap"}
+{"stars": 7,"text": "sınav sonuc yanlış hesapla ne yap"}
+{"stars": 7,"text": "not yanlış hesapla ne yap"}
+{"stars": 8,"text": "sistem gözetim durum ol yaz bu ne"}
+{"stars": 8,"text": "gözetim öğrenci ne,gözetim durum ol ne de"}
+{"stars": 8,"text": "gözetim durum ol ne de"}
+{"stars": 8,"text": "gözetim durum ne ol ne de"}
+{"stars": 8,"text": "gözetim durum ne ol"}
+{"stars": 8,"text": "kaç not ortalama ile gözetim liste çık"}
+{"stars": 8,"text": "gözetim durum ol burs kes mi"}
+{"stars": 9,"text": "çap şart ne"}
+{"stars": 9,"text": "çap yap için not ortalama kaç ol"}
+{"stars": 9,"text": "çift anadal program nasıl katıl"}
+{"stars": 9,"text": "çap yap için kaçıncı sınıf ol"}
+{"stars": 9,"text": "çap yap ist bilgi ver mi"}
+{"stars": 9,"text": "çift anadal program hakk bilgi ver mi"}
+{"stars": 10,"text": "başarı burs nasıl yarar"}
+{"stars": 10,"text": "dr ibrahim arıkan üstün başarı burs ne"}
+{"stars": 10,"text": "350 ile yüzde kaç başarı burs al"}
+{"stars": 10,"text": "başarı burs şart ne"}
+{"stars": 10,"text": "başarı burs al için not ortalama kaç ol"}
+{"stars": 1,"text": "diploma al için hangi şart sağl ol gerek"}
+{"stars": 1,"text": "dipl v oma al için ne lazım"}
+{"stars": 1,"text": "kaç kredi ile mezun ol"}
+{"stars": 1,"text": "mezun ol için ne gerek"}
+{"stars": 1,"text": "ortalama 200 alt mezun ol mi"}
+{"stars": 1,"text": "okul bitir için kaç kredi gerek"}
+{"stars": 2,"text": "f al ders tekrar al mı"}
+{"stars": 2,"text": "fx al ders tekrar mı al"}
+{"stars": 2,"text": "kal ders ne zaman al"}
+{"stars": 2,"text": "ders kal ne ol"}
+{"stars": 2,"text": "ver ders nasıl tekrar al"}
+{"stars": 2,"text": "ders ver ne zaman al"}
+{"stars": 3,"text": "bir dönem en fazla kaç kredi al"}
+{"stars": 3,"text": "maksimum kaç kredi alın"}
+{"stars": 3,"text": "en çok kaç kredi alın"}
+{"stars": 3,"text": "bir dönem en fazla alın kredi sayı ne"}
+{"stars": 3,"text": "kaç kredi kadar ders seç"}
+{"stars": 3,"text": "kaç kredi için danışman onay gerek"}
+{"stars": 4,"text": "kaç gün devam hakk var"}
+{"stars": 4,"text": "en fazla ne kadar devam yap"}
+{"stars": 4,"text": "devam kalmak ne olmak"}
+{"stars": 4,"text": "kaç ders gir ders kal"}
+{"stars": 4,"text": "rapor devam düş mi"}
+{"stars": 4,"text": "ders devam yüz kalın mı"}
+{"stars": 5,"text": "al ders bırak için ne yap"}
+{"stars": 5,"text": "al ders nasıl bırak"}
+{"stars": 5,"text": "ders nasıl bırak"}
+{"stars": 5,"text": "withdraw ne"}
+{"stars": 5,"text": "ders nasıl withdraw ed"}
+{"stars": 5,"text": "ders bırak ne ol"}
+{"stars": 6,"text": "fz ne"}
+{"stars": 6,"text": "fx ne anlam gel"}
+{"stars": 6,"text": "w not ne anlam gel"}
+{"stars": 6,"text": "ı ne"}
+{"stars": 6,"text": "s al ne ol"}
+{"stars": 6,"text": "harf not ex gözük ne de"}
+{"stars": 6,"text": "p harf not ne anlam gel"}
+{"stars": 6,"text": "u al ders geçmiş say mı"}
+{"stars": 7,"text": "not itiraz et ist ne yap"}
+{"stars": 7,"text": "not nasıl itiraz ed"}
+{"stars": 7,"text": "sınav sonuc nasıl itiraz ed"}
+{"stars": 7,"text": "sınav not itiraz et ist ne yap"}
+{"stars": 7,"text": "sınav sonuc yanlış hesapla ne yap"}
+{"stars": 7,"text": "not yanlış hesapla ne yap"}
+{"stars": 8,"text": "sistem gözetim durum ol yaz bu ne"}
+{"stars": 8,"text": "gözetim öğrenci ne,gözetim durum ol ne de"}
+{"stars": 8,"text": "gözetim durum ol ne de"}
+{"stars": 8,"text": "gözetim durum ne ol ne de"}
+{"stars": 8,"text": "gözetim durum ne ol"}
+{"stars": 8,"text": "kaç not ortalama ile gözetim liste çık"}
+{"stars": 8,"text": "gözetim durum ol burs kes mi"}
+{"stars": 9,"text": "çap şart ne"}
+{"stars": 9,"text": "çap yap için not ortalama kaç ol"}
+{"stars": 9,"text": "çift anadal program nasıl katıl"}
+{"stars": 9,"text": "çap yap için kaçıncı sınıf ol"}
+{"stars": 9,"text": "çap yap ist bilgi ver mi"}
+{"stars": 9,"text": "çift anadal program hakk bilgi ver mi"}
+{"stars": 10,"text": "başarı burs nasıl yarar"}
+{"stars": 10,"text": "dr ibrahim arıkan üstün başarı burs ne"}
+{"stars": 10,"text": "350 ile yüzde kaç başarı burs al"}
+{"stars": 10,"text": "başarı burs şart ne"}
+{"stars": 10,"text": "başarı burs al için not ortalama kaç ol"}
+{"stars": 1,"text": "diploma al için hangi şart sağl ol gerek"}
+{"stars": 1,"text": "dipl v oma al için ne lazım"}
+{"stars": 1,"text": "kaç kredi ile mezun ol"}
+{"stars": 1,"text": "mezun ol için ne gerek"}
+{"stars": 1,"text": "ortalama 200 alt mezun ol mi"}
+{"stars": 1,"text": "okul bitir için kaç kredi gerek"}
+{"stars": 2,"text": "f al ders tekrar al mı"}
+{"stars": 2,"text": "fx al ders tekrar mı al"}
+{"stars": 2,"text": "kal ders ne zaman al"}
+{"stars": 2,"text": "ders kal ne ol"}
+{"stars": 2,"text": "ver ders nasıl tekrar al"}
+{"stars": 2,"text": "ders ver ne zaman al"}
+{"stars": 3,"text": "bir dönem en fazla kaç kredi al"}
+{"stars": 3,"text": "maksimum kaç kredi alın"}
+{"stars": 3,"text": "en çok kaç kredi alın"}
+{"stars": 3,"text": "bir dönem en fazla alın kredi sayı ne"}
+{"stars": 3,"text": "kaç kredi kadar ders seç"}
+{"stars": 3,"text": "kaç kredi için danışman onay gerek"}
+{"stars": 4,"text": "kaç gün devam hakk var"}
+{"stars": 4,"text": "en fazla ne kadar devam yap"}
+{"stars": 4,"text": "devam kalmak ne olmak"}
+{"stars": 4,"text": "kaç ders gir ders kal"}
+{"stars": 4,"text": "rapor devam düş mi"}
+{"stars": 4,"text": "ders devam yüz kalın mı"}
+{"stars": 5,"text": "al ders bırak için ne yap"}
+{"stars": 5,"text": "al ders nasıl bırak"}
+{"stars": 5,"text": "ders nasıl bırak"}
+{"stars": 5,"text": "withdraw ne"}
+{"stars": 5,"text": "ders nasıl withdraw ed"}
+{"stars": 5,"text": "ders bırak ne ol"}
+{"stars": 6,"text": "fz ne"}
+{"stars": 6,"text": "fx ne anlam gel"}
+{"stars": 6,"text": "w not ne anlam gel"}
+{"stars": 6,"text": "ı ne"}
+{"stars": 6,"text": "s al ne ol"}
+{"stars": 6,"text": "harf not ex gözük ne de"}
+{"stars": 6,"text": "p harf not ne anlam gel"}
+{"stars": 6,"text": "u al ders geçmiş say mı"}
+{"stars": 7,"text": "not itiraz et ist ne yap"}
+{"stars": 7,"text": "not nasıl itiraz ed"}
+{"stars": 7,"text": "sınav sonuc nasıl itiraz ed"}
+{"stars": 7,"text": "sınav not itiraz et ist ne yap"}
+{"stars": 7,"text": "sınav sonuc yanlış hesapla ne yap"}
+{"stars": 7,"text": "not yanlış hesapla ne yap"}
+{"stars": 8,"text": "sistem gözetim durum ol yaz bu ne"}
+{"stars": 8,"text": "gözetim öğrenci ne,gözetim durum ol ne de"}
+{"stars": 8,"text": "gözetim durum ol ne de"}
+{"stars": 8,"text": "gözetim durum ne ol ne de"}
+{"stars": 8,"text": "gözetim durum ne ol"}
+{"stars": 8,"text": "kaç not ortalama ile gözetim liste çık"}
+{"stars": 8,"text": "gözetim durum ol burs kes mi"}
+{"stars": 9,"text": "çap şart ne"}
+{"stars": 9,"text": "çap yap için not ortalama kaç ol"}
+{"stars": 9,"text": "çift anadal program nasıl katıl"}
+{"stars": 9,"text": "çap yap için kaçıncı sınıf ol"}
+{"stars": 9,"text": "çap yap ist bilgi ver mi"}
+{"stars": 9,"text": "çift anadal program hakk bilgi ver mi"}
+{"stars": 10,"text": "başarı burs nasıl yarar"}
+{"stars": 10,"text": "dr ibrahim arıkan üstün başarı burs ne"}
+{"stars": 10,"text": "350 ile yüzde kaç başarı burs al"}
+{"stars": 10,"text": "başarı burs şart ne"}
+{"stars": 10,"text": "başarı burs al için not ortalama kaç ol"}
+{"stars": 1,"text": "diploma al için hangi şart sağl ol gerek"}
+{"stars": 1,"text": "dipl v oma al için ne lazım"}
+{"stars": 1,"text": "kaç kredi ile mezun ol"}
+{"stars": 1,"text": "mezun ol için ne gerek"}
+{"stars": 1,"text": "ortalama 200 alt mezun ol mi"}
+{"stars": 1,"text": "okul bitir için kaç kredi gerek"}
+{"stars": 2,"text": "f al ders tekrar al mı"}
+{"stars": 2,"text": "fx al ders tekrar mı al"}
+{"stars": 2,"text": "kal ders ne zaman al"}
+{"stars": 2,"text": "ders kal ne ol"}
+{"stars": 2,"text": "ver ders nasıl tekrar al"}
+{"stars": 2,"text": "ders ver ne zaman al"}
+{"stars": 3,"text": "bir dönem en fazla kaç kredi al"}
+{"stars": 3,"text": "maksimum kaç kredi alın"}
+{"stars": 3,"text": "en çok kaç kredi alın"}
+{"stars": 3,"text": "bir dönem en fazla alın kredi sayı ne"}
+{"stars": 3,"text": "kaç kredi kadar ders seç"}
+{"stars": 3,"text": "kaç kredi için danışman onay gerek"}
+{"stars": 4,"text": "kaç gün devam hakk var"}
+{"stars": 4,"text": "en fazla ne kadar devam yap"}
+{"stars": 4,"text": "devam kalmak ne olmak"}
+{"stars": 4,"text": "kaç ders gir ders kal"}
+{"stars": 4,"text": "rapor devam düş mi"}
+{"stars": 4,"text": "ders devam yüz kalın mı"}
+{"stars": 5,"text": "al ders bırak için ne yap"}
+{"stars": 5,"text": "al ders nasıl bırak"}
+{"stars": 5,"text": "ders nasıl bırak"}
+{"stars": 5,"text": "withdraw ne"}
+{"stars": 5,"text": "ders nasıl withdraw ed"}
+{"stars": 5,"text": "ders bırak ne ol"}
+{"stars": 6,"text": "fz ne"}
+{"stars": 6,"text": "fx ne anlam gel"}
+{"stars": 6,"text": "w not ne anlam gel"}
+{"stars": 6,"text": "ı ne"}
+{"stars": 6,"text": "s al ne ol"}
+{"stars": 6,"text": "harf not ex gözük ne de"}
+{"stars": 6,"text": "p harf not ne anlam gel"}
+{"stars": 6,"text": "u al ders geçmiş say mı"}
+{"stars": 7,"text": "not itiraz et ist ne yap"}
+{"stars": 7,"text": "not nasıl itiraz ed"}
+{"stars": 7,"text": "sınav sonuc nasıl itiraz ed"}
+{"stars": 7,"text": "sınav not itiraz et ist ne yap"}
+{"stars": 7,"text": "sınav sonuc yanlış hesapla ne yap"}
+{"stars": 7,"text": "not yanlış hesapla ne yap"}
+{"stars": 8,"text": "sistem gözetim durum ol yaz bu ne"}
+{"stars": 8,"text": "gözetim öğrenci ne,gözetim durum ol ne de"}
+{"stars": 8,"text": "gözetim durum ol ne de"}
+{"stars": 8,"text": "gözetim durum ne ol ne de"}
+{"stars": 8,"text": "gözetim durum ne ol"}
+{"stars": 8,"text": "kaç not ortalama ile gözetim liste çık"}
+{"stars": 8,"text": "gözetim durum ol burs kes mi"}
+{"stars": 9,"text": "çap şart ne"}
+{"stars": 9,"text": "çap yap için not ortalama kaç ol"}
+{"stars": 9,"text": "çift anadal program nasıl katıl"}
+{"stars": 9,"text": "çap yap için kaçıncı sınıf ol"}
+{"stars": 9,"text": "çap yap ist bilgi ver mi"}
+{"stars": 9,"text": "çift anadal program hakk bilgi ver mi"}
+{"stars": 10,"text": "başarı burs nasıl yarar"}
+{"stars": 10,"text": "dr ibrahim arıkan üstün başarı burs ne"}
+{"stars": 10,"text": "350 ile yüzde kaç başarı burs al"}
+{"stars": 10,"text": "başarı burs şart ne"}
+{"stars": 10,"text": "başarı burs al için not ortalama kaç ol"}
