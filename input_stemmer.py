@@ -21,6 +21,7 @@ def run_for_svm():
     input_data = input("Lütfen sorunuzu girin.")
 
     words = nltk.word_tokenize(input_data)
+    words = [word.lower() for word in words if word.isalpha()]
     sentence = ""
     after_stem = [turkStem.stemWord(word) for word in words]
     for i in range(len(after_stem)):
